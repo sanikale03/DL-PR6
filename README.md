@@ -12,7 +12,7 @@ The implementation is provided in Jupyter Notebook format in `DL_PR6.ipynb`. No 
 
 ## 📺 Presentation Video
 
-👉 **https://drive.google.com/file/d/1kmwR3SfuSy2SD7GK4B7VeyXmdcdiLr2x/view?usp=sharing**
+👉 **https://drive.google.com/file/d/1U46azAEUg17U105mZArIJU3quQyh21va/view?usp=sharing**
 ------------------------------------------------------------------------
 
 ## 🎯 Objectives
